@@ -1,3 +1,4 @@
+package squareup;
 
 public class GeoResponse {
 

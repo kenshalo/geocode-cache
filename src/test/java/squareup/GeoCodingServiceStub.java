@@ -1,10 +1,10 @@
+package squareup;
 
 public class GeoCodingServiceStub implements GeoCodingService {
 
-	@Override
-	public GeoResponse getGeoCode(float lat, float lon) {
+	public GeoResponse getGeoCode(double lat, double lon) {
 		// TODO Auto-generated method stub
 		return null;
 	}
-
+	
 }

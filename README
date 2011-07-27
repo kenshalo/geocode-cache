@@ -1,0 +1,3 @@
+Geohash cache and codec for encoding, decoding lat, lon pairs and their 
+corresponding geohash.  Implements: http://en.wikipedia.org/wiki/Geohash 
+invented by Gustavo Niemeyer.
